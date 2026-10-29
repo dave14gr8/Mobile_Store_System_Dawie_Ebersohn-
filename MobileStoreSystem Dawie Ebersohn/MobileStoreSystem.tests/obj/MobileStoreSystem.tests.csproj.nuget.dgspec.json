@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem.tests\\MobileStoreSystem.tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem.tests\\MobileStoreSystem.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem.tests\\MobileStoreSystem.tests.csproj",
+        "projectName": "MobileStoreSystem.tests",
+        "projectPath": "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem.tests\\MobileStoreSystem.tests.csproj",
+        "packagesPath": "C:\\Users\\dave1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dave1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem\\MobileStoreSystem.csproj": {
+                "projectPath": "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem\\MobileStoreSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem\\MobileStoreSystem.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem\\MobileStoreSystem.csproj",
+        "projectName": "MobileStoreSystem",
+        "projectPath": "C:\\Users\\dave1\\source\\repos\\MobileStoreSystem\\MobileStoreSystem\\MobileStoreSystem.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    }
+  }
+}

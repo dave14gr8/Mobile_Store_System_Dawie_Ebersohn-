@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MobileStoreSystem.tests/MobileStoreSystem.tests.csproj" Id="51551dc2-edc9-4aa1-9d2f-24e36648c752" />
+  <Project Path="MobileStoreSystem/MobileStoreSystem.csproj" Id="732ca8d4-dc98-4e41-bb59-59b1fe261fd4" />
+</Solution>
